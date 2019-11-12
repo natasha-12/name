@@ -1,6 +1,6 @@
 {
   "name": "Nataliya", 
   "surname": "Karas",
-  "age": 19,
+  "age": 18,
   "address" :1,
 }
